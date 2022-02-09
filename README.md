@@ -17,5 +17,5 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Install BetterBibTex if you plan to use citation dialogue in writing down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
-### More on notetaking for historians:
+### Materials I found useful:
 Zachary M. Schrag, _The Princeton Guide to Historical Research_ (Princeton, NJ: Princeton University Press, 2021).
