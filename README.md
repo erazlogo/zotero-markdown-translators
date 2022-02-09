@@ -14,6 +14,6 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Install Zotero
 - Put two translator files into zotero/translators folder
 - Install Zutilo for Zotero and map translators to keyboard shortcuts
-- Install BetterBibTex if you plan to use citatin dialogue in writing down the road (this feature is not yet fully supported in Obsidian)
+- Install BetterBibTex if you plan to use citation dialogue in writing down the road (this feature is not yet fully supported in Obsidian)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
