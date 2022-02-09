@@ -4,3 +4,5 @@ This basic research toolkit helps to get started on historical notetaking and an
 Two translator files link Obsidian note to a Zotero item. They should be mapped to keystrokes in the Zutilo plugin (map "Markdown Item URI" to Shift-Command-1 and "Markdown Obsidian Dataview" to Shift-Command-2).
 ## Obsidian template-project folder
 A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, Tag Wrangler and others). It includes several example notes and dataview tables.
+## Inspirations
+Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
