@@ -21,4 +21,6 @@ This setup is a simplified and modified version of Sean Graham's "Obsidian Stude
 ### Materials I found useful:
 Zachary M. Schrag, _The Princeton Guide to Historical Research_ (Princeton, NJ: Princeton University Press, 2021).
 
+Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series, February-April 2021, https://www.listennotes.com/podcasts/the-history-mixtapes-liner-notes-katherine-uptPFITeGgf/.
+
 Mark Merry, _Designing Databases for Historical Research_ (London: Institute of Historical Research, Univeristy of London, -2022), https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124.
