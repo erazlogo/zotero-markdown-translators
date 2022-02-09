@@ -6,14 +6,14 @@ Two translator files link Obsidian note to a Zotero item. They should be mapped 
 A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, Tag Wrangler and others). It includes several example notes and dataview tables.
 ## Installation
 ### Obsidian
-- Install Obsidian
-- Install "template-project" vault
+- Install Obsidian https://obsidian.md/
+- Move "template-project" folder to the Obsidian folder and open it as a vault
 - Turn on Live Preview (comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch)
 ### Zotero
-- Install Zotero
-- Put two translator files into zotero/translators folder
-- Install Zutilo for Zotero and map translators to keyboard shortcuts
-- Install BetterBibTex if you plan to use citation dialogue in writing down the road (this feature is not yet fully supported in Obsidian)
+- Install Zotero https://www.zotero.org/
+- Move two translator files to Zotero/translators folder
+- Install Zutilo for Zotero and map translators to keyboard shortcuts https://github.com/wshanks/Zutilo
+- Install BetterBibTex if you plan to use citation dialogue in writing down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
