@@ -9,7 +9,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Install Zotero https://www.zotero.org/
 - Move two translator files to Zotero/translators folder
 - Install Zutilo for Zotero and map translators to keyboard shortcuts https://github.com/wshanks/Zutilo
-- Install BetterBibTex if you plan to use citation dialogue in writing down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
+- Install BetterBibTex if you plan to use <a href="https://www.zotero.org/support/word_processor_integration">cite-while-you-write</a> down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
 - Note: These steps will allow you to link any Markdown application to Zotero.
 ### Obsidian
 - Install Obsidian https://obsidian.md/
