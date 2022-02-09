@@ -8,7 +8,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ## Installation
 ### Obsidian
 Install Obsidian
-Install template-project Vault
+Install "template-project" vault
 Turn on Live Preview (comes up at first launch)
 Turn Safe Mode Off (comes up at first launch)
 ### Zotero
