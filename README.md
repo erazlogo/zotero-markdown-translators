@@ -14,7 +14,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Move "template-project" folder to the Obsidian folder and open it as a vault. Note: I am having trouble uploading hidden files to github at the moment, so please download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28">video</a>)
-- Turn on Live Preview (comes up at first launch)
+- Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
