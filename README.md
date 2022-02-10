@@ -17,6 +17,11 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Move "template-project" folder to the Obsidian folder and open it as a vault. Note: I am having trouble uploading hidden files to github at the moment, so please download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch)
+## Tutorial
+- Add Zotero Connector to a Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
+- Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
+- Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
+- Annotate a PDF in Zotero (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Materials I found useful:
