@@ -21,7 +21,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Add Zotero Connector to a Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
-- Annotate a PDF in Zotero (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
+- Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Materials I found useful:
