@@ -7,13 +7,13 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ## Installation
 ### Zotero
 - Install Beta version of Zotero https://www.zotero.org/support/dev_builds
-- Download and move two translator files to Zotero/translators folder
+- Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
 - Install Zutilo for Zotero and map translators to keyboard shortcuts https://github.com/wshanks/Zutilo
 - Install BetterBibTex if you plan to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
 - Note: These steps will allow you to link any Markdown application to Zotero.
 ### Obsidian
 - Install Obsidian https://obsidian.md/
-- Move "template-project" folder to the Obsidian folder and open it as a vault. Note: I am having trouble uploading hidden files to github at the moment, so please download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28">video</a>)
+- Move "template-project" folder to the Obsidian folder and open it as a vault. Note: I am having trouble uploading hidden files to github at the moment, so please download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch)
 ## Acknowledgments
