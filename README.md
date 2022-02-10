@@ -6,7 +6,7 @@ Two translator files link Obsidian note to a Zotero item. They should be mapped 
 A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, Tag Wrangler and others). It includes several example notes and Dataview tables.
 ## Installation
 ### Zotero
-- Install Zotero https://www.zotero.org/
+- Install Beta version of Zotero https://www.zotero.org/support/dev_builds
 - Move two translator files to Zotero/translators folder
 - Install Zutilo for Zotero and map translators to keyboard shortcuts https://github.com/wshanks/Zutilo
 - Install BetterBibTex if you plan to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (recommended; this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
