@@ -27,7 +27,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
-- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="http://elenarazlogova.org/wp-content/uploads/connect-zotero-to-obsidian-note.mov">video</a>)
+- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="http://elenarazlogova.org/wp-content/uploads/connect-zotero-to-obsidian-note.mov">video</a> - download)
 - Use Shift-drag to copy an annotation from Zotero to Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-annotation-from-zotero-to-obsidian.mov">video</a> - download)
 ### Navigating from Obsidian to Zotero
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (video)
