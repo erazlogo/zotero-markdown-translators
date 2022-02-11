@@ -16,7 +16,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Note: These steps will allow you to link any Markdown application to Zotero (see Tutorial below).
 ### Obsidian
 - Install Obsidian https://obsidian.md/
-- Move "template-project" folder to the Obsidian folder and open it as a vault. Note: I am having trouble uploading hidden files to github at the moment, so please download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
+- Move "template-project" folder to the Obsidian folder and open it as a vault. Note: download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch - included in video above)
 ## Tutorial
