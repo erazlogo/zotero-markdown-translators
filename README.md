@@ -7,8 +7,9 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ## Installation
 ### Zotero
 - Install Beta version of Zotero https://www.zotero.org/support/dev_builds
+- Add Zotero Connector to your Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Create online account on Zotero https://www.zotero.org/user/register
-- Sync your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
+- Set up sync for your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
 - Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
@@ -21,7 +22,6 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Turn Safe Mode Off (comes up at first launch - included in video above)
 ## Tutorials
 ### Working in Zotero
-- Add Zotero Connector to a Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
