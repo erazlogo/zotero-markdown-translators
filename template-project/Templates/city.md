@@ -1,3 +1,0 @@
-#place/city 
-
-country:: [[]]
