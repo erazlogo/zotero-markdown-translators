@@ -30,7 +30,8 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (video)
 - Use Shift-drag to copy an annotation from Zotero to Obsidian (video)
 ### Navigating from Obsidian to Zotero
-- Get to a Zotero item from a link in Obsidian in edit view with Command-click (video) and in reading view (video)
+- Get to to a Zotero item from a link in Obsidian in edit view with Command-click (video)
+- Get to a Zotero item from a link in Obsidian in reading view (video)
 - Get to an annotation in Zotero from a link in Obsidian (video)
 
 ## Acknowledgments
