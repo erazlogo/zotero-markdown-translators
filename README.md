@@ -23,6 +23,8 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
+- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (video)
+- Use Shift-drag to move linked annotation from Zotero to Obsidian (video)
 
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
