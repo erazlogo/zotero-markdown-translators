@@ -37,4 +37,6 @@ Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series, February-
 - Audio https://www.listennotes.com/podcasts/the-history-mixtapes-liner-notes-katherine-uptPFITeGgf/
 - Video https://www.youtube.com/playlist?list=PLZ_bIX7g9SjC2lp58Ax6Hm2ZhKtoMBU31
 
+Ian Milligan, _History in the Age of Abundance? How the Web Is Transforming Historical Research_ (Montreal: McGill-Queen’s University Press, 2019).
+
 Mark Merry, _Designing Databases for Historical Research_ (London: Institute of Historical Research, Univeristy of London, -2022), https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124.
