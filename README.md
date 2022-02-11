@@ -7,6 +7,8 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ## Installation
 ### Zotero
 - Install Beta version of Zotero https://www.zotero.org/support/dev_builds
+- Recommended: Create online account on Zotero https://www.zotero.org/user/register
+- Recommended: Sync your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
 - Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
