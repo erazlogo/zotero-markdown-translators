@@ -33,10 +33,9 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (video)
 - Get to a Zotero item from a link in Obsidian in reading view (video)
 - Get to an annotation in Zotero from a link in Obsidian (video)
-
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
-### Materials I found useful:
+### Useful materials:
 Zachary M. Schrag, _The Princeton Guide to Historical Research_ (Princeton, NJ: Princeton University Press, 2021).
 
 Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series of interviews with historians on their notetaking methods, February-April 2021:
