@@ -13,13 +13,13 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
 - Recommended: Install BetterBibTex if you plan to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/
-- Note: These steps will allow you to link any Markdown application to Zotero (see Tutorial below for how to link Bear and Zotero).
+- Note: These steps will allow you to link any Markdown application to Zotero (see Tutorials below for how to link Bear and Zotero).
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Move "template-project" folder to the Obsidian folder and open it as a vault. Note: download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314 (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch - included in video above)
-## Tutorial
+## Tutorials
 - Add Zotero Connector to a Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
