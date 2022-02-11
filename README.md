@@ -32,7 +32,7 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 ### Navigating from Obsidian to Zotero
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-edit-view.mov">video</a> - download)
 - Get to a Zotero item from a link in Obsidian in reading view (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-reading-view.mov">video</a> - download)
-- Get to an annotation in Zotero from a link in Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-from-a-quote-in-obsidian-to-annotation-in-zotero.mov">video</a>)
+- Get to an annotation in Zotero from a link in Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-from-a-quote-in-obsidian-to-annotation-in-zotero.mov">video</a> - download)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Useful materials:
