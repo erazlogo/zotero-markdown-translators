@@ -33,7 +33,7 @@ This setup is a simplified and modified version of Sean Graham's "Obsidian Stude
 ### Materials I found useful:
 Zachary M. Schrag, _The Princeton Guide to Historical Research_ (Princeton, NJ: Princeton University Press, 2021).
 
-Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series, February-April 2021:
+Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series of interviews with historians on their notetaking methods, February-April 2021:
 - Audio https://www.listennotes.com/podcasts/the-history-mixtapes-liner-notes-katherine-uptPFITeGgf/
 - Video https://www.youtube.com/playlist?list=PLZ_bIX7g9SjC2lp58Ax6Hm2ZhKtoMBU31
 
