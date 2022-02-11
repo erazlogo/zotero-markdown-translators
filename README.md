@@ -20,13 +20,16 @@ A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, 
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch - included in video above)
 ## Tutorials
+### Working in Zotero
 - Add Zotero Connector to a Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
+### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (video)
 - Use Shift-drag to copy an annotation from Zotero to Obsidian (video)
+### Navigating from Obsidian to Zotero
 - Get to a Zotero item from a link in Obsidian in edit view with Command-click (video) and in reading view (video)
 - Get to an annotation in Zotero from a link in Obsidian (video)
 
