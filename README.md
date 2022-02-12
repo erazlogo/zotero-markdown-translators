@@ -14,7 +14,7 @@ Download the "template-project" folder here: http://elenarazlogova.org/?attachme
 - Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
-- Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/ (<a href="http://elenarazlogova.org/wp-content/uploads/install-better-bibtex.mov">video</a> - download)
+- Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 - Note: These steps will allow you to link any Markdown application to Zotero (see Tutorials below for how to link Bear and Zotero).
 ### Obsidian
 - Install Obsidian https://obsidian.md/
