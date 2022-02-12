@@ -52,9 +52,9 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
 - Shift-drag to copy an annotation from Zotero to Obsidian (<a href="https://youtu.be/2b9m8qPViZ4">video</a>)
 ### Navigating from Obsidian to Zotero
-- Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-edit-view.mov">video</a> - download)
-- Get to a Zotero item from a link in Obsidian in reading view (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-reading-view.mov">video</a> - download)
-- Get to an annotation in Zotero from a link in Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-from-a-quote-in-obsidian-to-annotation-in-zotero.mov">video</a> - download)
+- Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="https://youtu.be/skNjwOGNYso">video</a>)
+- Get to a Zotero item from a link in Obsidian in reading view (<a href="https://youtu.be/RYH4pSvlSeo">video</a>)
+- Get to an annotation in Zotero from a link in Obsidian (<a href="https://youtu.be/OsYG_Vt87Ho">video</a>)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Useful materials:
