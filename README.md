@@ -29,7 +29,7 @@ Download the "template-project" folder here: http://elenarazlogova.org/?attachme
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
-- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a> - download)
+- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
 - Use Shift-drag to copy an annotation from Zotero to Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-annotation-from-zotero-to-obsidian.mov">video</a>)
 ### Navigating from Obsidian to Zotero
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-edit-view.mov">video</a> - download)
