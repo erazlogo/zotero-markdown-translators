@@ -11,7 +11,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Shift-Command-2 - copy a reference with links and fields for a reference to use for search and sorting with Dataview plugin
 - Shift-Command-C - copy bibiliographic reference
 - Shift-Command-A - copy footnote reference
-### Obsidian Settings (changes to default setup included in the "template-project" vault): 
+### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
 - Editor: Readable line length (off)
 - Files and Links: Automatically update internal links (on)
 - Appearance: Dark/Light View (Light)
