@@ -2,8 +2,8 @@ This basic research toolkit helps to get started on historical notetaking and an
 ## What's Included
 ### Two Zotero shortcuts
 Two translator files link Obsidian note to a Zotero item. They should be mapped to keystrokes in the Zutilo plugin (map "Markdown Item URI Citation" to Shift-Command-1 and "Markdown Obsidian Dataview" to Shift-Command-2). Included above.
-### Obsidian template-project folder
-A starter folder with several plugins preinstalled (see list below). It includes several example notes and Dataview tables.
+### Obsidian template-project vault
+A starter vault with several plugins preinstalled (see the list of plugins below). The vault includes several example notes and Dataview tables.
 Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
 ### Four basic shortcuts
 Use the following four shortcuts to transfer Zotero item data to Obsidian for linking and citation (a BibTex citekey is included in the Dataview export to support <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road).  
