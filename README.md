@@ -27,6 +27,12 @@ Download the "template-project" folder here: http://elenarazlogova.org/?attachme
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
+### Working in Obsidian
+- Creating and linking notes
+- Tagging notes
+- Note view modes: Edit view and reading view
+- Link visualization: Backlinks, local Graph view, Global Graph view
+- Searching notes
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
