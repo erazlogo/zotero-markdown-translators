@@ -6,7 +6,7 @@ Two translator files link Obsidian note to a Zotero item. They should be mapped 
 A starter folder with several plugins preinstalled (Dataview, Kanban, Longform, Tag Wrangler and others). It includes several example notes and Dataview tables.
 Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
 ### Four basic shortcuts
-You need the following four shortcuts to transfer Zotero item data to Obsidian for linking and citation (a BibTex citekey is included in the Dataview translator to support <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road.  
+Use the following four shortcuts to transfer Zotero item data to Obsidian for linking and citation (a BibTex citekey is included in the Dataview translator to support <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road.  
 - Shift-Command-1 - copy reference with links to an item in Zotero, on line and locally on your computer
 - Shift-Command-2 - copy a reference with links and fields for a reference to use for search and sorting with Dataview plugin
 - Shift-Command-C - copy bibiliographic reference
