@@ -11,6 +11,13 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Shift-Command-2 - copy a reference with links and fields for a reference to use for search and sorting with Dataview plugin
 - Shift-Command-C - copy bibiliographic reference
 - Shift-Command-A - copy footnote reference
+### Obsidian Settings (changes to default setup included in the "template-project" vault): 
+- Editor: Readable line length (off)
+- Files and Links: Automatically update internal links (on)
+- Appearance: Dark/Light View (Light)
+- Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
+- Community plugins: Safe mode (off)
+- Install community plugins: Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
 ## Installation
 ### Zotero
 - Install Beta version of Zotero https://www.zotero.org/support/dev_builds
@@ -33,13 +40,6 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
-### Obsidian Settings (changes to default setup included in the "template-project" vault): 
-- Editor: Readable line length (off)
-- Files and Links: Automatically update internal links (on)
-- Appearance: Dark/Light View (Light)
-- Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
-- Community plugins: Safe mode (off)
-- Install community plugins: Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
 ### Working in Obsidian
 - Create and link notes
 - Writing in Markdown
