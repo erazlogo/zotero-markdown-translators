@@ -30,7 +30,7 @@ Download the "template-project" folder here: http://elenarazlogova.org/?attachme
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
-- Use Shift-drag to copy an annotation from Zotero to Obsidian (<a href="http://elenarazlogova.org/wp-content/uploads/move-annotation-from-zotero-to-obsidian.mov">video</a>)
+- Shift-drag to copy an annotation from Zotero to Obsidian (<a href="https://youtu.be/2b9m8qPViZ4">video</a>)
 ### Navigating from Obsidian to Zotero
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-edit-view.mov">video</a> - download)
 - Get to a Zotero item from a link in Obsidian in reading view (<a href="http://elenarazlogova.org/wp-content/uploads/from-obsidian-to-zotero-item-reading-view.mov">video</a> - download)
