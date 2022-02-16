@@ -42,7 +42,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Working in Obsidian
 - Create and link notes
-- Write in Markdown
+- Write in Markdown (link, italics, emphasis, comment, url link) 
 - Tag notes
 - Search notes
 - Note view modes: Edit view and reading view
