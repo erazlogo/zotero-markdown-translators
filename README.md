@@ -41,10 +41,10 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Working in Obsidian
-- Create and link notes
+- Create and link notes (Files and Links: Automatically update internal links - on)
 - Write in Markdown (link, italics, emphasis, comment, url link, footnote) 
-- Tag notes
-- Search notes
+- Tag notes (Core plugins: Tag pane - on; Tag Wrangler plugin)
+- Search notes (Core plugins: Starred - on)
 - Note view modes: Edit view and reading view
 - Link visualization: Backlinks, local Graph view, Global Graph view
 ### Connecting Zotero and Obsidian
