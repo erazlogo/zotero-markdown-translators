@@ -1,4 +1,7 @@
 This basic research toolkit helps to get started on historical notetaking and analysis with Zotero and Obsidian. It does not require programming skills or command-line installation and does not rely on paid features in Zotero or Obsidian.
+
+Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced features fo historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-for-historians)
+
 ## What's Included
 ### Two Zotero shortcuts
 Two translator files link Obsidian note to a Zotero item. They should be mapped to keystrokes in the Zutilo plugin (map "Markdown Item URI Citation" to Shift-Command-1 and "Markdown Obsidian Dataview" to Shift-Command-2). Included above.
@@ -60,7 +63,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 ### Advanced Features for Historians
 - Sort your notes by source date, by source page number, and by event date (start-date and end-date fields) with Dataview
 - Trace social networks: create and link person, place, and event notes and visualize with the Graph view
-- Use Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
+- Use the Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Useful materials:
