@@ -60,7 +60,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="https://youtu.be/skNjwOGNYso">video</a>)
 - Get to a Zotero item from a link in Obsidian in reading view (<a href="https://youtu.be/RYH4pSvlSeo">video</a>)
 - Get to an annotation in Zotero from a link in Obsidian (<a href="https://youtu.be/OsYG_Vt87Ho">video</a>)
-### Advanced Features and Best Practices for Historians
+## Advanced Features and Best Practices for Historians
 - Combine free-form "Zettelkasten" linking of ideas with structured data necessary to know who did what and when
 - Sort your notes by source date, by source page number, and by event date (start-date and end-date) with Dataview
 - Trace social networks: create and link person, place, and event notes and visualize with the Graph view
