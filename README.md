@@ -38,7 +38,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Move "template-project" folder to the Obsidian folder and open it as a vault. (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
 - Turn on Live Preview (if it comes up at first launch)
 - Turn Safe Mode Off (comes up at first launch - included in video above)
-## Tutorials
+## Basic Tutorials
 ### Working in Zotero
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
