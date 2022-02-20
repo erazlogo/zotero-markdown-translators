@@ -1,6 +1,6 @@
 This basic research toolkit helps to get started on historical notetaking and analysis with Zotero and Obsidian. It does not require programming skills or command-line installation and does not rely on paid features in Zotero or Obsidian.
 
-Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced features fo historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-for-historians)
+Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced features for historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-for-historians)
 
 ## What's Included
 ### Two Zotero shortcuts
