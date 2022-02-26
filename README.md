@@ -77,3 +77,5 @@ Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series of intervi
 Ian Milligan, _History in the Age of Abundance? How the Web Is Transforming Historical Research_ (Montreal: McGill-Queen’s University Press, 2019).
 
 Mark Merry, _Designing Databases for Historical Research_ (London: Institute of Historical Research, Univeristy of London, -2022), https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124.
+
+Umberto Eco, _How to Write a Thesis_ (Princeton: Princeton University Press, 2015).
