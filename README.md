@@ -79,3 +79,11 @@ Ian Milligan, _History in the Age of Abundance? How the Web Is Transforming Hist
 Mark Merry, _Designing Databases for Historical Research_ (London: Institute of Historical Research, Univeristy of London, -2022), https://port.sas.ac.uk/mod/book/view.php?id=75&chapterid=124.
 
 Umberto Eco, _How to Write a Thesis_ (Princeton: Princeton University Press, 2015).
+
+### More on Zettelkasten
+
+Niklas Luhmann, “Communicating with Slip Boxes: An Empirical Account,” _Luhmann.Surge.Sh_, [1981], accessed 2021-04-11, http://luhmann.surge.sh/communicating-with-slip-boxes.
+
+Johannes F. K. Schmidt, “Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine,” in Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, ed. Alberto Cevolini (Brill, 2016), https://doi.org/10.1163/9789004325258.
+
+Markus Krajewski, _Paper machines: about cards & catalogs, 1548-1929_ (Cambridge, Mass.; London: MIT Press, 2011).
