@@ -80,6 +80,8 @@ Mark Merry, _Designing Databases for Historical Research_ (London: Institute of 
 
 Umberto Eco, _How to Write a Thesis_ (Princeton: Princeton University Press, 2015).
 
+Roy Rosenzweig's research notes, Roy Rosenzweig Papers, Collection #C0038, Special Collections Research Center, George Mason University.
+
 ### More on Zettelkasten
 
 Niklas Luhmann, “Communicating with Slip Boxes: An Empirical Account,” _Luhmann.Surge.Sh_, [1981], accessed 2021-04-11, http://luhmann.surge.sh/communicating-with-slip-boxes.
