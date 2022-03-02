@@ -86,6 +86,6 @@ Roy Rosenzweig's research notes, Roy Rosenzweig Papers, Collection #C0038, Speci
 
 Niklas Luhmann, “Communicating with Slip Boxes: An Empirical Account,” _Luhmann.Surge.Sh_, [1981], accessed 2021-04-11, http://luhmann.surge.sh/communicating-with-slip-boxes.
 
-Johannes F. K. Schmidt, “Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine,” in Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, ed. Alberto Cevolini (Brill, 2016), https://doi.org/10.1163/9789004325258.
+Johannes F. K. Schmidt, “Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine,” in Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, ed. Alberto Cevolini (Leiden: Brill, 2016).
 
-Markus Krajewski, _Paper machines: about cards & catalogs, 1548-1929_ (Cambridge, Mass.; London: MIT Press, 2011).
+Markus Krajewski, _Paper Machines: About Cards & Catalogs, 1548-1929_ (Cambridge, Mass.; London: MIT Press, 2011).
