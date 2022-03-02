@@ -88,4 +88,4 @@ Niklas Luhmann, “Communicating with Slip Boxes: An Empirical Account,” _Luhm
 
 Johannes F. K. Schmidt, “Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine,” in Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, ed. Alberto Cevolini (Leiden: Brill, 2016).
 
-Markus Krajewski, _Paper Machines: About Cards & Catalogs, 1548-1929_ (Cambridge, Mass.; London: MIT Press, 2011).
+Markus Krajewski, _Paper Machines: About Cards & Catalogs, 1548-1929_ (Cambridge, MA: MIT Press, 2011).
