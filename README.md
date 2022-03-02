@@ -67,7 +67,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Use the Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
-### Useful materials:
+### Useful materials
 Zachary M. Schrag, _The Princeton Guide to Historical Research_ (Princeton, NJ: Princeton University Press, 2021).
 
 Katherine Jewell, _The History Mixtapes: Liner Notes_, Podcast series of interviews with historians on their notetaking methods, February-April 2021:
