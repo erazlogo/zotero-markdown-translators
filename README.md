@@ -49,7 +49,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Write in Markdown (link, italics, hightlight, url link)
 - Add footnotes in Markdown (Community plugins: Safe mode - off; install Footnote Shortcut plugin)
 - Tag notes (Core plugins: Tag pane - on; Community plugins: Safe mode - off; install Tag Wrangler plugin) (<a href="https://youtu.be/3HTn-lpu08s">video</a>)
-- Search notes (Core plugins: Starred - on)
+- Search notes (Core plugins: Starred - on) (<a href="https://youtu.be/pp2lTVydVso">video</a>)
 - Note view modes: Edit view and reading view
 - Link visualization: Backlinks, local Graph view, Global Graph view
 ### Connecting Zotero and Obsidian
