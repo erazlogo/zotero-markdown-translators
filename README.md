@@ -70,7 +70,8 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. 
 - You __have__ to export archive and archive-location fields from Zotero into Obsidian because archival research is central for historical work.
 - It is __recommended__ that the title of your note (also your file title) reflects the content of the note, in contrast to the established practice of using the source BibTex ID as the title for the "Literature Note."
-- If you can use existing Zotero-Obsidian plugins to achieve the above conditions, go ahead (and please let me know so I can include directions in this setup). Otherwise, use my translators/shortcuts explained above.
+- Zotero-Obsidian plugins that rely on BibTex exports do not scale up well - searches can take several minutes for a large database. That is another reason why I use translators/shortcuts instead.
+- If you can use an existing Zotero-Obsidian plugins to achieve the above conditions, go ahead (and please let me know so I can include directions in this setup). Otherwise, use my translators/shortcuts explained above.
 ### Network Analysis
 - Use Tags to categorize your notes
 - Organize and explore your graph with Groups and Depth settings
