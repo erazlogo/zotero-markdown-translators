@@ -46,7 +46,8 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 ### Working in Obsidian
 - Create a new vault (<a href="https://youtu.be/HRKWt5ATUkE</a>">video</a>)
 - Create and link notes (Files and Links: Automatically update internal links - on) (<a href="https://youtu.be/ddcD6ZnFXIc">video</a>)
-- Write in Markdown (link, italics, emphasis, comment, url link, footnote) 
+- Write in Markdown (link, italics, emphasis, comment, url link, 
+- Add footnotes in Markdown (Community plugins: Safe mode - off; install Footnote Shortcut plugin)
 - Tag notes (Core plugins: Tag pane - on; Community plugins: Safe mode - off; install Tag Wrangler plugin)
 - Search notes (Core plugins: Starred - on)
 - Note view modes: Edit view and reading view
