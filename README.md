@@ -67,6 +67,23 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Sort your notes by source date, by source page number, and by event date (start-date and end-date) with Dataview
 - Trace social networks: create and link person, place, and event notes and visualize with the Graph view
 - Use the Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
+### Basic Difference with the Zettelkasten method Zotero-Obsidian plugins (this is for Obsidian users)
+- You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. (I am exploring alternatives to that setup.)
+- You __have__ to export archive and archive-location fields from Zotero into Obsidian because archival research is central for historical work.
+- It is __recommended__ that the title of your note (also your file title) reflects the content of the note, in contrast to the established practice of using the source BibTex ID as the title for the "Literature Note."
+- If you can use existing Zotero-Obsidian plugins to achieve the above conditions, go ahead (and please let me know so I can include directions in this setup). Otherwise, use my translators/shortcuts explained above.
+### Network Analysis
+- Use Tags to categorize your notes
+- Organize and explore your graph with Groups and Depth settings
+- Create and use Templates for Person, Place, Event notes
+### Dataview Search and Sort of Sources
+- Import source info from Zotero
+- Set up your own fields (event start-date and end-date; page number)
+- Create a table of your source notes; sort by author and page no.
+- Create a table of your archival sources; sort by archive location
+- Create a table for a timeline of your notes
+- Set up Dataview notes in a special folder
+- Set up Dataview Workspace(s)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Useful materials
