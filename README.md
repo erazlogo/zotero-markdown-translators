@@ -52,7 +52,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Search notes (Core plugins: Starred - on) (<a href="https://youtu.be/pp2lTVydVso">video</a>)
 - Note view modes: Edit view and reading view
 - Link visualization: Backlinks, local Graph view, Global Graph view (<a href="https://youtu.be/8ZLO61HdQZY">video</a>)
-- Organizing your vault with Workspaces
+- Organizing with Workspaces (Core plugins: Workspaces - on) (<a href="https://youtu.be/FB67xMG2MP8">video</a>)
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
