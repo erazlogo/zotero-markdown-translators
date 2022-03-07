@@ -84,7 +84,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Create a table for a timeline of your notes
 - Set up Dataview notes in a special folder
 - Set up Dataview Workspace(s)
-### Writing with Kanban as a Corkboard (Zettelkasten method useful here)
+### Writing with Kanban as a Corkboard (Zettelkasten method used here)
 - Create Analysis notes
 - Outline with a Corkboard (Community plugins: Safe mode - off; install Kanban plugin)
 - Write with a Corkboard (Community plugins: Safe mode - off; install Longform plugin)
