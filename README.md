@@ -68,7 +68,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Trace social networks: create and link person, place, and event notes and visualize with the Graph view
 - Use the Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
 ### Basic Difference with the Zettelkasten method Zotero-Obsidian plugins (this is for Obsidian users)
-- You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. (I am exploring alternatives to that setup.)
+- You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. 
 - You __have__ to export archive and archive-location fields from Zotero into Obsidian because archival research is central for historical work.
 - It is __recommended__ that the title of your note (also your file title) reflects the content of the note, in contrast to the established practice of using the source BibTex ID as the title for the "Literature Note."
 - If you can use existing Zotero-Obsidian plugins to achieve the above conditions, go ahead (and please let me know so I can include directions in this setup). Otherwise, use my translators/shortcuts explained above.
