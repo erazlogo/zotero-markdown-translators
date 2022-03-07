@@ -45,7 +45,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Working in Obsidian
 - Create a new vault (<a href="https://youtu.be/HRKWt5ATUkE</a>">video</a>)
-- Create and link notes (Files and Links: Automatically update internal links - on)
+- Create and link notes (Files and Links: Automatically update internal links - on) (<a href="https://youtu.be/ddcD6ZnFXIc">video</a>)
 - Write in Markdown (link, italics, emphasis, comment, url link, footnote) 
 - Tag notes (Core plugins: Tag pane - on; Community plugins: Safe mode - off; install Tag Wrangler plugin)
 - Search notes (Core plugins: Starred - on)
