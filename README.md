@@ -15,7 +15,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Shift-Command-C - copy bibiliographic reference
 - Shift-Command-A - copy footnote reference
 ### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
-- Editor: Readable line length (off)
+- Editor: Readable line length (off), Auto convert HTML (off)
 - Files and Links: Automatically update internal links (on)
 - Appearance: Dark/Light View (Light)
 - Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
