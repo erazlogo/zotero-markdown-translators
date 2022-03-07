@@ -79,11 +79,15 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 ### Search and Sort Sources with Dataview
 - Import source info from Zotero into YAML fields
 - Set up your own fields (event start-date and end-date; page number)
-- Create a table of your source notes; sort by author and page no.
+- Create a table of your source notes; sort by author and page no. (Community plugins: Safe mode - off; install Dataview plugin)
 - Create a table of your archival sources; sort by archive location
 - Create a table for a timeline of your notes
 - Set up Dataview notes in a special folder
 - Set up Dataview Workspace(s)
+### Writing with Kanban as a Corkboard (Zettelkasten method useful here)
+- Create Analysis notes
+- Outline with a Corkboard (Community plugins: Safe mode - off; install Kanban plugin)
+- Write with a Corkboard (Community plugins: Safe mode - off; install Longform plugin)
 ## Acknowledgments
 This setup is a simplified and modified version of Sean Graham's "Obsidian Student Starter Vault," https://github.com/shawngraham/obsidian-student-starter-vault
 ### Useful materials
