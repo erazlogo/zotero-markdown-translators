@@ -76,7 +76,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Use Tags to categorize your notes
 - Organize and explore your graph with Groups and Depth settings
 - Create and use Templates for Person, Place, Event notes
-### Dataview Search and Sort of Sources
+### Search and Sort Sources with Dataview
 - Import source info from Zotero
 - Set up your own fields (event start-date and end-date; page number)
 - Create a table of your source notes; sort by author and page no.
