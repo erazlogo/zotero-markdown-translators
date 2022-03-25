@@ -78,7 +78,7 @@
 			var onlinecite = item.uri ? "[online](" + item.uri + ") " : "";
 			var local = item.key ? "local: \"[local](zotero://select/items/_" + item.key + ")\"\n" : "";
 			var localcite = item.key ? "[local](zotero://select/items/_" + item.key + ")" : "";
-			var citekey = item.citationKey ? `citekey: \"[@${item.citationKey}]\"` : "";
+			var citekey = item.citationKey ? "citekey: " + item.citationKey : "";
 			
 	
 			Zotero.write(`---\n${type}${authors}${recipient}${interviewer}${title}${publication}${date}${archive}${location}${url}${doi}${online}${local}${citekey}\n---\n${authorscite}${recipientcite}${editorscite}${interviewercite}${titlecite}${publicationcite}${datecite}${urlcite}${doicite}${onlinecite}${localcite}\n`);
