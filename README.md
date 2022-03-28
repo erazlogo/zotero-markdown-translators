@@ -29,6 +29,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Set up sync for your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
 - Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
+- Install <a href="https://github.com/daeh/zotero-obsidian-citations">Zotero Obsidian Citation plugin</a> to link from Zotero items to Obsidian notes
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
 - Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported - read <a href="https://forum.obsidian.md/t/pdf-zotero-obsidian-current-state-and-collaboration-for-the-one-plugin/34372">this thread</a> for progress) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 - Note: These steps will allow you to link any Markdown application to Zotero.
@@ -55,7 +56,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 ### Connecting Zotero and Obsidian
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
 - Shift-drag to copy an annotation from Zotero to Obsidian (<a href="https://youtu.be/2b9m8qPViZ4">video</a>)
-- Create a link to an Obsidian note from a Zotero item (<a href="https://youtu.be/Bq-maQwngdo">video</a>)
+- Tag and link Zotero items that have notes in Obsidian
 ### Navigating from Obsidian to Zotero
 - Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="https://youtu.be/skNjwOGNYso">video</a>)
 - Get to a Zotero item from a link in Obsidian in reading view (<a href="https://youtu.be/RYH4pSvlSeo">video</a>)
