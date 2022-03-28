@@ -15,7 +15,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Shift-Command-C - copy bibiliographic reference
 - Shift-Command-A - copy footnote reference
 ### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
-- Editor: Readable line length (off), Auto convert HTML (off)
+- Editor: Readable line length (off)
 - Files and Links: Automatically update internal links (on)
 - Appearance: Dark/Light View (Light)
 - Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
@@ -31,7 +31,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
 - Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported in Obsidian) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
-- Note: These steps will allow you to link any Markdown application to Zotero (see Tutorials below for how to link Bear and Zotero).
+- Note: These steps will allow you to link any Markdown application to Zotero.
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
@@ -53,7 +53,6 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Link visualization: Backlinks, local Graph view, Global Graph view (<a href="https://youtu.be/8ZLO61HdQZY">video</a>)
 - Organizing with Workspaces (Core plugins: Workspaces - on) (<a href="https://youtu.be/FB67xMG2MP8">video</a>)
 ### Connecting Zotero and Obsidian
-- Use Shift-Command-1 shortcut to link a Zotero item to a Bear note (<a href="https://youtu.be/iQiYAoEaD9U">video</a>)
 - Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
 - Shift-drag to copy an annotation from Zotero to Obsidian (<a href="https://youtu.be/2b9m8qPViZ4">video</a>)
 - Create a link to an Obsidian note from a Zotero item (<a href="https://youtu.be/Bq-maQwngdo">video</a>)
