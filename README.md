@@ -31,7 +31,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
 - Install <a href="https://github.com/daeh/zotero-obsidian-citations">Zotero Obsidian Citation plugin</a> to link from Zotero items to Obsidian notes
 - Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
-- Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature is not yet fully supported - read <a href="https://forum.obsidian.md/t/pdf-zotero-obsidian-current-state-and-collaboration-for-the-one-plugin/34372">this thread</a> for progress) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
+- Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature was not yet fully supported as of March 2022 - check <a href="https://forum.obsidian.md/t/pdf-zotero-obsidian-current-state-and-collaboration-for-the-one-plugin/34372">this thread</a> for progress) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 - Note: These steps will allow you to link any Markdown application to Zotero.
 ### Obsidian
 - Install Obsidian https://obsidian.md/
