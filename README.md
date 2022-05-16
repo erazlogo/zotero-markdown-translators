@@ -16,10 +16,10 @@ Older version: Download the "template-project" folder here: http://elenarazlogov
 - Install community plugins: Zotero Desktop Connector, Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
 ## Installation
 ### Zotero
-- Install Beta version of Zotero https://www.zotero.org/support/dev_builds
+- Install Zotero 6 https://www.zotero.org/download
 - Add Zotero Connector to your Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Create online account on Zotero https://www.zotero.org/user/register
-- Set up sync for your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
+- Set up sync for your data (without PDFs for free or with PDFs for a fee) to your online Zotero account https://www.zotero.org/support/sync
 - Install BetterBibTex https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 ### Obsidian
 - Install Obsidian https://obsidian.md/
