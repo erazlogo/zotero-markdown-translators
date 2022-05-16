@@ -1,37 +1,26 @@
 This basic research toolkit helps to get started on historical notetaking and analysis with Zotero and Obsidian. It does not require programming skills or command-line installation and does not rely on paid features in Zotero or Obsidian.
 
+For latest directions on connecting Zotero and Obsidian with [Zotero Desktop Connector (ZDC)](https://github.com/mgmeyers/obsidian-zotero-desktop-connector), see [Doing History with Zotero and Obsidian - From Zotero Annotations to Obsidian Research Notes](https://publish.obsidian.md/history-notes/From+Zotero+Annotations+to+Obsidian+Research+Notes)
+
 Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced Features and Best Practices for Historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-and-best-practices-for-historians)
 
-## What's Included
-### Two Zotero shortcuts
-Two translator files link Obsidian note to a Zotero item. They should be mapped to keystrokes in the Zutilo plugin (map "Markdown Item URI Citation" to Shift-Command-1 and "Markdown Obsidian Dataview" to Shift-Command-2). Included above.
-### Obsidian template-project "vault" folder
+## New sample template-project that works with ZDC is coming soon
 A starter vault (a storage unit for your notes) with several plugins preinstalled (see the list of plugins below). The vault includes several example notes and Dataview tables.
-Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
-### Four basic shortcuts
-Use the following four shortcuts to transfer Zotero item data to Obsidian for linking and citation (a BibTex citekey is included in the Dataview export to support <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road).  
-- Shift-Command-1 - copy reference with links to an item in Zotero, online and locally on your computer
-- Shift-Command-2 - copy a reference with links and fields for a reference to use for search and sorting with Dataview plugin
-- Shift-Command-C - copy bibiliographic reference
-- Shift-Command-A - copy footnote reference
+Older version: Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
 ### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
 - Editor: Readable line length (off)
 - Files and Links: Automatically update internal links (on)
 - Appearance: Dark/Light View (Light)
 - Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
 - Community plugins: Safe mode (off)
-- Install community plugins: Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
+- Install community plugins: Zotero Desktop Connector, Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
 ## Installation
 ### Zotero
 - Install Beta version of Zotero https://www.zotero.org/support/dev_builds
 - Add Zotero Connector to your Browser (<a href="https://youtu.be/QAIAzuuLvoo">video</a>)
 - Create online account on Zotero https://www.zotero.org/user/register
 - Set up sync for your data (not PDFs) to your online Zotero account https://www.zotero.org/support/sync
-- Download and move two translator files to Zotero/translators folder (<a href="https://youtu.be/nc7TEFEbhpA" target="_blank">video</a>)
-- Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
-- Install <a href="https://github.com/daeh/zotero-obsidian-citations">Zotero Obsidian Citation plugin</a> to link from Zotero items to Obsidian notes
-- Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
-- Install BetterBibTex to use <a href="https://retorque.re/zotero-better-bibtex/citing/cayw/">cite-as-you-write</a> down the road (this feature was not yet fully supported as of March 2022 - check <a href="https://forum.obsidian.md/t/pdf-zotero-obsidian-current-state-and-collaboration-for-the-one-plugin/34372">this thread</a> for progress) https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
+- Install BetterBibTex https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
@@ -52,14 +41,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 - Search notes (Core plugins: Starred - on) (<a href="https://youtu.be/pp2lTVydVso">video</a>)
 - Link visualization: Backlinks, local Graph view, Global Graph view (<a href="https://youtu.be/8ZLO61HdQZY">video</a>)
 - Organizing with Workspaces (Core plugins: Workspaces - on) (<a href="https://youtu.be/FB67xMG2MP8">video</a>)
-### Connecting Zotero and Obsidian
-- Use Shift-Command-2 shortcut to link a Zotero item to an Obsidian note (<a href="https://youtu.be/y4Ye0OFzpQ8">video</a>)
-- Shift-drag to copy an annotation from Zotero to Obsidian (<a href="https://youtu.be/2b9m8qPViZ4">video</a>)
-- Tag and link Zotero items that have notes in Obsidian
-### Navigating from Obsidian to Zotero
-- Get to to a Zotero item from a link in Obsidian in edit view with Command-click (<a href="https://youtu.be/skNjwOGNYso">video</a>)
-- Get to a Zotero item from a link in Obsidian in reading view (<a href="https://youtu.be/RYH4pSvlSeo">video</a>)
-- Get to an annotation in Zotero from a link in Obsidian (<a href="https://youtu.be/OsYG_Vt87Ho">video</a>)
+
 ## Advanced Features and Best Practices for Historians
 - Combine free-form "Zettelkasten" linking of ideas with structured data necessary to know who did what and when
 - Sort your notes by source date, by source page number, and by event date (start-date and end-date) with Dataview
@@ -68,8 +50,7 @@ Use the following four shortcuts to transfer Zotero item data to Obsidian for li
 ### Basic Difference with the Zettelkasten method Zotero-Obsidian plugins (this is for Obsidian users)
 - You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. 
 - You __have__ to export archive, archive-location, and recipient fields from Zotero into Obsidian because archival research (including private correspondence) is central for historical work.
-- You __have__ to use a Zotero-Obsidian plugin that scales up well for a large number of sources. Plugins that rely on BibTex exports do not - searches can take several minutes for large databases. 
-- It is __recommended__ that the title of your note (also your file title) reflects the content of the note, in contrast to the established practice of using the source BibTex citekey as the title for the "Literature Note."
+- Because Zotero source can have several linked Obsidian notes, the title of your note (also your file title) should reflect the content of the note, in contrast to the established practice of using the source BibTex citekey as the title for the "Literature Note."
 ### Network Analysis
 - Use Tags to categorize your notes
 - Organize and explore your graph with Groups and Depth settings
