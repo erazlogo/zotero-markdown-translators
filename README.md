@@ -1,12 +1,11 @@
-This basic research toolkit helps to get started on historical notetaking and analysis with Zotero and Obsidian. It does not require programming skills or command-line installation and does not rely on paid features in Zotero or Obsidian.
+For the new version of the starter vault, go to https://github.com/erazlogo/obsidian-history-vault
 
 For latest directions on connecting Zotero and Obsidian with [Zotero Desktop Connector (ZDC)](https://github.com/mgmeyers/obsidian-zotero-desktop-connector), see [Doing History with Zotero and Obsidian - From Zotero Annotations to Obsidian Research Notes](https://publish.obsidian.md/history-notes/From+Zotero+Annotations+to+Obsidian+Research+Notes)
 
 Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced Features and Best Practices for Historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-and-best-practices-for-historians)
 
-## New sample template-project that works with ZDC is coming soon
+## Description and Tutorials (to be transfered to the new repo soon)
 A starter vault (a storage unit for your notes) with several plugins preinstalled (see the list of plugins below). The vault includes several example notes and Dataview tables.
-Older version: Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
 ### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
 - Editor: Readable line length (off)
 - Files and Links: Automatically update internal links (on)
