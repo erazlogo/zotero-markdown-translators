@@ -1,6 +1,6 @@
 For the new version of the starter vault, go to https://github.com/erazlogo/obsidian-history-vault
 
-For latest directions on connecting Zotero and Obsidian with [Zotero Desktop Connector (ZDC)](https://github.com/mgmeyers/obsidian-zotero-desktop-connector), see [Doing History with Zotero and Obsidian - From Zotero Annotations to Obsidian Research Notes](https://publish.obsidian.md/history-notes/From+Zotero+Annotations+to+Obsidian+Research+Notes)
+For latest directions on connecting Zotero and Obsidian with [Zotero Itegrator]([https://github.com/mgmeyers/obsidian-zotero-desktop-connector](https://github.com/mgmeyers/obsidian-zotero-integration)), see [Doing History with Zotero and Obsidian - From Zotero Annotations to Obsidian Research Notes](https://publish.obsidian.md/history-notes/From+Zotero+Annotations+to+Obsidian+Research+Notes)
 
 Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced Features and Best Practices for Historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-and-best-practices-for-historians)
 
