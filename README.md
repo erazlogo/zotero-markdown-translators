@@ -18,13 +18,13 @@ For an advanced historical research workflow, check out [Obsidian History Vault]
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Turn on Live Preview
+- Create a new vault (<a href="https://youtu.be/HRKWt5ATUkE</a>">video</a>)
 ## Basic Tutorials
 ### Working in Zotero
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
 - Download an article from JStor into Zotero (<a href="https://youtu.be/kvZxNo52sFI">video</a>)
 - Annotate a PDF in Zotero and move the annotation to a Zotero note (<a href="https://youtu.be/_hQm_joNZoQ">video</a>)
 ### Working in Obsidian
-- Create a new vault (<a href="https://youtu.be/HRKWt5ATUkE</a>">video</a>)
 - Create and link notes (Files and Links: Automatically update internal links - on) (<a href="https://youtu.be/ddcD6ZnFXIc">video</a>)
 - Write in Markdown (italics, headings, external link, highlight) (<a href="https://youtu.be/gtxU-4wGwgo">video</a>)
 - Add footnotes in Edit View and navigate in Reading View (Community plugins: Safe mode - off; install Footnote Shortcut plugin) (<a href="https://youtu.be/2F9HKU1OAVw">video</a>)
