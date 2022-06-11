@@ -1,18 +1,9 @@
-For the new version of the starter vault, go to https://github.com/erazlogo/obsidian-history-vault
+These two translators export Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey), to Obsidian, or any markdown note.
 
-For latest directions on connecting Zotero and Obsidian with [Zotero Itegrator]([https://github.com/mgmeyers/obsidian-zotero-desktop-connector](https://github.com/mgmeyers/obsidian-zotero-integration)), see [Doing History with Zotero and Obsidian - From Zotero Annotations to Obsidian Research Notes](https://publish.obsidian.md/history-notes/From+Zotero+Annotations+to+Obsidian+Research+Notes)
-
-Note: if you have your own setup for linking Zotero and Obsidian, jump to [Advanced Features and Best Practices for Historians](https://github.com/erazlogo/obsidian-history-notes/blob/main/README.md#advanced-features-and-best-practices-for-historians)
-
-## Description and Tutorials (to be transfered to the new repo soon)
-A starter vault (a storage unit for your notes) with several plugins preinstalled (see the list of plugins below). The vault includes several example notes and Dataview tables.
-### Obsidian Settings (changes to the default setup included in the "template-project" vault): 
-- Editor: Readable line length (off)
-- Files and Links: Automatically update internal links (on)
-- Appearance: Dark/Light View (Light)
-- Core plugins: Tag pane (on), Templates (on), Starred (on), Workspaces (on)
-- Community plugins: Safe mode (off)
-- Install community plugins: Zotero Desktop Connector, Tag Wrangler, Dataview, Kanban, Longform, Better Word Count, Footnote Shortcut, Reading Time, Focus Mode, Typewriter Scroll
+For a more robust workflow, check out [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault)
+ and [Doing History with Zotero and Obsidian](https://publish.obsidian.md/history-notes) 
+ 
+ # Zotero and Obsidian Basics
 ## Installation
 ### Zotero
 - Install Zotero 6 https://www.zotero.org/download
@@ -40,21 +31,3 @@ A starter vault (a storage unit for your notes) with several plugins preinstalle
 - Search notes (Core plugins: Starred - on) (<a href="https://youtu.be/pp2lTVydVso">video</a>)
 - Link visualization: Backlinks, local Graph view, Global Graph view (<a href="https://youtu.be/8ZLO61HdQZY">video</a>)
 - Organizing with Workspaces (Core plugins: Workspaces - on) (<a href="https://youtu.be/FB67xMG2MP8">video</a>)
-
-## Advanced Features and Best Practices for Historians
-- Combine free-form "Zettelkasten" linking of ideas with structured data necessary to know who did what and when
-- Sort your notes by source date, by source page number, and by event date (start-date and end-date) with Dataview
-- Trace social networks: create and link person, place, and event notes and visualize with the Graph view
-- Use the Kanban plugin as a Corkboard for writing, in a Scrivener-like setup 
-### Basic Difference with the Zettelkasten method Zotero-Obsidian plugins (this is for Obsidian users)
-- You __have__ to include source fields (author, title, year, etc.) in __all__ notes related to a particular source, not just in the "Literature Note." That's what makes precise Dataview searches possible. 
-- You __have__ to export archive, archive-location, and recipient fields from Zotero into Obsidian because archival research (including private correspondence) is central for historical work.
-- Because Zotero source can have several linked Obsidian notes, the title of your note (also your file title) should reflect the content of the note, in contrast to the established practice of using the source BibTex citekey as the title for the "Literature Note."
-### Network Analysis
-- Use Tags to categorize your notes
-- Organize and explore your graph with Groups and Depth settings
-- Create and use Templates for Person, Place, Event notes
-### Writing with Kanban as a Corkboard (Zettelkasten method used here)
-- Create Analysis notes ("Permanent" notes in Zettelkasten parlance)
-- Outline with a Corkboard (Community plugins: Safe mode - off; install Kanban plugin)
-- Write with a Corkboard (Community plugins: Safe mode - off; install Longform plugin)
