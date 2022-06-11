@@ -1,6 +1,6 @@
 Two Zotero translators are included:
 
-Markdown.Item.URI.Obsidian.Dataview.js translator exports Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey), to Obsidian, or any markdown note.
+Markdown.Item.URI.Obsidian.Dataview.js translator exports Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey) as YAML fields to an Obsidian markdown note. You would use the Dataview plugin to search this metadata.
 
 For an advanced historical research workflow, check out [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault)
  and [Doing History with Zotero and Obsidian](https://publish.obsidian.md/history-notes) 
