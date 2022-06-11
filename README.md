@@ -1,6 +1,6 @@
 These two translators export Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey), to Obsidian, or any markdown note.
 
-For a more robust workflow, check out [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault)
+For an advanced historical research workflow, check out [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault)
  and [Doing History with Zotero and Obsidian](https://publish.obsidian.md/history-notes) 
  
  # Zotero and Obsidian Basics
