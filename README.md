@@ -1,6 +1,8 @@
 Two Zotero translators are included:
 
-Markdown.Item.URI.Obsidian.Dataview.js translator exports Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey) as YAML fields to an Obsidian markdown note. You would use the Dataview plugin to search this metadata.
+Markdown.Item.URI.Obsidian.Dataview.js translator allows to quick-copy Zotero metatada important to historians (authors, editors, [letter] recipients, title, publication, date, archive, archive-location, citekey) as YAML fields to an Obsidian markdown note. You would use the Dataview plugin to search this metadata.
+
+Markdown.Item.URI.Citation.js allows to quick-copy Zotero reference with a URI that links from Obsidian note back to a Zotero item.
 
 For an advanced historical research workflow, check out [Obsidian History Vault](https://github.com/erazlogo/obsidian-history-vault)
  and [Doing History with Zotero and Obsidian](https://publish.obsidian.md/history-notes) 
@@ -15,10 +17,7 @@ For an advanced historical research workflow, check out [Obsidian History Vault]
 - Install BetterBibTex https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
 ### Obsidian
 - Install Obsidian https://obsidian.md/
-- Download the "template-project" folder here: http://elenarazlogova.org/?attachment_id=314
-- Move "template-project" folder to the Obsidian folder and open it as a vault. (<a href="https://www.youtube.com/watch?v=Vly0x14FT28" target="_blank">video</a>)
-- Turn on Live Preview (if it comes up at first launch)
-- Turn Safe Mode Off (comes up at first launch - included in video above)
+- Turn on Live Preview
 ## Basic Tutorials
 ### Working in Zotero
 - Download a book from Worldcat into Zotero (<a href="https://youtu.be/jTLBonnAQjY">video</a>)
