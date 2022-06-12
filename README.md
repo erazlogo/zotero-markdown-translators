@@ -15,6 +15,8 @@ For an advanced historical research workflow, check out [Obsidian History Vault]
 - Create online account on Zotero https://www.zotero.org/user/register
 - Set up sync for your data (without PDFs for free or with PDFs for a fee) to your online Zotero account https://www.zotero.org/support/sync
 - Install BetterBibTex https://retorque.re/zotero-better-bibtex/ (<a href="https://youtu.be/u40EGnPgnDw">video</a>)
+- Install Zutilo for Zotero (<a href="https://youtu.be/NSJGtaJPFns" target="_blank">video</a>)
+- Map Markdown translators to keyboard shortcuts in Zutilo https://github.com/wshanks/Zutilo (<a href="https://youtu.be/WSt_Rib-dRc">video</a>)
 ### Obsidian
 - Install Obsidian https://obsidian.md/
 - Turn on Live Preview
